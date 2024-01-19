@@ -14,7 +14,7 @@ e.g. :
 
 
 ## Use/Install/Test Solution:
-1 - Install the required Python packages using the following command:
+1 - Clone the repository or download the reqs.txt file then Install the required Python packages using the following command:
 <pre>
 ```
 pip install -r reqs.txt
