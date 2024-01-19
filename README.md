@@ -16,7 +16,7 @@ e.g. :
 ## Use/Install/Test Solution:
 1 - Install the required Python packages using the following command:
 <pre>
-```bash
+```
 pip install -r reqs.txt
 ```
 </pre>
@@ -24,7 +24,7 @@ pip install -r reqs.txt
 2 - Clone the repository or download the solution.py file.
 Run the script using the following command:
 <pre>
-```bash
+```
 python solution.py
 ```
 </pre>
