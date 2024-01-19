@@ -1,8 +1,9 @@
 ## Problem :
 Extract the following elements from the 1st page of books.toscrape.com:
-	- full book title
-	- price as float
-	- rating as int
+- full book title
+- price as float
+- rating as int
+
 Data should be stored as python list of dictionaries, where each book is dictionary
 e.g. :
 
