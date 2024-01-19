@@ -29,5 +29,5 @@ python solution.py
 ```
 </pre>
 
-The script will output data for a randomly selected book from the first page of "bookstoscrape.com".
+The script will output data stored as a python list of dictionaries
 
