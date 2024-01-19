@@ -33,6 +33,10 @@ def extract_book_data(book_tag):
         "rating": convert_rating(rating)
     }
 
-randomdata = extract_book_data(choice(book_tags))
+# this was for testing purposes
+# randomdata = extract_book_data(choice(book_tags))
+# print(randomdata)
 
-print(randomdata)
+book_data = [extract_book_data(book_tag) for book_tag in book_tags]
+
+print(book_data)
